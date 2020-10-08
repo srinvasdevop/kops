@@ -1,3 +1,4 @@
+---
 site_name: Kubernetes Operations - kops
 # strict: true
 repo_name: 'kubernetes/kops'
